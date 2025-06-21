@@ -3,3 +3,7 @@ pandas
 plotly
 pillow
 requests
+matplotlib
+numpy
+altair
+streamlit-lottie
