@@ -7,7 +7,6 @@ Cette application démontre les capacités de traitement du langage naturel (NLU
 - Analyse de sentiments en Darija
 - Reconnaissance d'entités nommées
 - Classification de texte
-- [Autres fonctionnalités de votre application]
 
 ## Installation locale
 ```bash
