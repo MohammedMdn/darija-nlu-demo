@@ -56,7 +56,7 @@ Une version en ligne de l'application est disponible à l'adresse :
 
 ## 👨‍💻 Auteur
 
-Développé par Mohammed Mediani dans le cadre d'un projet académique à l'École Supérieure de Technologie (EST) de Nador.
+Développé par Mohammed Mediani dans le cadre d'un stage de fin d'études.
 
 ## 📄 Licence
 
