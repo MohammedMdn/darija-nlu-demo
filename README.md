@@ -45,7 +45,7 @@ streamlit run app.py
 ## 🔍 Démo
 
 Une version en ligne de l'application est disponible à l'adresse :
-[https://darija-nlu-demo.streamlit.app/](https://darija-nlu-demo.streamlit.app/)
+[https://darija-nlu-demo.streamlit.app/](https://darija-nlu-demo-mdn.streamlit.app/)
 
 ## 💻 Technologies utilisées
 
